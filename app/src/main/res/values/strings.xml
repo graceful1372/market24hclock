@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Market 24 hclock</string>
+
+    <string name="prefix_london">L S E - L O N D O N</string>
+    <string name="prefix_zurich">"S I X - Z U R I C H "</string>
+    <string name="prefix_frankfurt">"F W B - F R A N K F U R T "</string>
+    <string name="prefix_moscow">"M O E X - M O S C O W "</string>
+    <string name="prefix_tokyo">"J P X - T O K Y O "</string>
+    <string name="prefix_shanghai">"S S E - S H A N G H A I "</string>
+    <string name="prefix_johannesburg">"J S E - J O H A N N E S B U R G "</string>
+    <string name="prefix_hong_kong">"H K E X - H O N G  K O N G "</string>
+    <string name="prefix_singapore">S G X - S I N G A P O R E</string>
+    <string name="prefix_newyork">N Y S E - N A S D A Q - N E W  Y O R K</string>
+    <string name="prefix_mumbai">S S E - M U M B A I</string>
+    <string name="prefix_toronto">T S E - T O R O N T O</string>
+    <string name="prefix_sydney">A S X - S Y D N E Y</string>
+    <string name="prefix_riyadh">T A D A W U L - R I Y A D H</string>
+    <string name="prefix_chicago">N Y S E - C H I C A G O</string>
+    <string name="prefix_wellington">N Z X - W E L L I N G T O N</string>
+    <string name="prefix_dubai">D F M - D U B A I</string>
+    <string name="prefix_sao_paulo">B 3 - B O V E S P A - S A O  P A U L O</string>
+
+    <string name="london">L O N D O N</string>
+    <string name="zurich">"Z U R I C H "</string>
+    <string name="frankfurt">"F R A N K F U R T "</string>
+    <string name="moscow">"M O S C O W "</string>
+    <string name="tokyo">"T O K Y O "</string>
+    <string name="shanghai">"S H A N G H A I "</string>
+    <string name="johannesburg">"J O H A N N E S B U R G "</string>
+    <string name="hong_kong">"H O N G  K O N G "</string>
+    <string name="singapore">S I N G A P O R E</string>
+    <string name="newyork">N E W  Y O R K</string>
+    <string name="mumbai">M U M B A I</string>
+    <string name="toronto">T O R O N T O</string>
+    <string name="sydney">S Y D N E Y</string>
+    <string name="riyadh">R I Y A D H</string>
+    <string name="chicago">C H I C A G O</string>
+    <string name="wellington">W E L L I N G T O N</string>
+    <string name="dubai">D U B A I</string>
+    <string name="sao_paulo">S A O  P A U L O</string>
+</resources>
