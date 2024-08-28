@@ -17,7 +17,7 @@
 همچنین از مشارکت شما در توسعه این پروژه استقبال می‌کنیم. می‌توانید با گزارش باگ‌ها، پیشنهاد ویژگی‌های جدید و مشارکت در کدزنی به ما کمک کنید.
  
 
-https://zarinp.al/graceful
+
 ![screen_clock](https://github.com/user-attachments/assets/c165ef91-1ae0-465c-a3b6-e1f027b43357)
 
 
